@@ -1,4 +1,5 @@
 📱**Lead Tracker - Chrome Extension & Web App**
+
 A lightweight and responsive Lead Tracker web app / Chrome extension built using HTML, CSS, JavaScript, and Firebase Realtime Database. This app allows users to quickly save input links/leads, manage stored data, and access them across devices in real time.
 
 ✨ Features
